@@ -6,9 +6,9 @@ import java.util.Scanner;
 
 
 public class project {
-    public static String dbAddress = "jdbc:oracle:thin://@db18.cse.cuhk.edu.hk:1521/oradb.cse.cuhk.edu.hk";
-    public static String dbUsername = "h062";
-    public static String dbPassword = "jotLekHa";
+    public static String dbAddress = "xxx";
+    public static String dbUsername = "xxx";
+    public static String dbPassword = "xxx";
     
     private static Date systemDate = Date.valueOf("2000-01-01");
 
